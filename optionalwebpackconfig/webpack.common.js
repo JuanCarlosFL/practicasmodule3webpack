@@ -59,8 +59,4 @@ module.exports = {
             chunkFilename: "[id].css"
         }),
     ],
-    devServer: {
-        port: 8085,
-        stats: "errors-only"
-    },
 };

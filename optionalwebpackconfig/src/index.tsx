@@ -16,3 +16,5 @@ ReactDOM.render(
     </div>,
     document.getElementById('root')
 )
+
+console.log(`Mi Api base: ${process.env.API_BASE}`);
