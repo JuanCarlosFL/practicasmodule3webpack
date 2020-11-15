@@ -8,10 +8,6 @@ Ejercicio:
     Que tengamos una forma de medir cuanto ocupa cada librería y nuestro código en el bundle.
     Montar lo mismo con parcel.
 
-
-Para esta práctica he intentado que la parte básica sea lo más básica posible cumpliendo lo que pide el ejercicio,
-A continuación están la lista de paquetes instalados:
-
 Continuamos con la parte opcional
 Instalamos React
 
