@@ -9,6 +9,7 @@ module.exports = {
     resolve: {
         extensions: [".js", ".ts"]
     },
+    devtool: "eval-source-map",
     entry: {
         app: './index.ts',
         appStyles: './style.scss',
