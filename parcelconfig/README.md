@@ -17,9 +17,11 @@ Para borrar la carpeta dist instalamos rimraf
 Instalamos typescript y el paquete run-all para poder ejecutar en paralelo
 
 ```npm i -D typescript```
+
 ```npm i -D npm-run-all```
 
 Instalamos React y los typings
 
 ```npm install react react-dom --save```
-```npm install @types/react @types/react-dom```
+
+```npm i -D @types/react @types/react-dom```
